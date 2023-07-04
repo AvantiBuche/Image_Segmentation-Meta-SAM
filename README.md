@@ -1,12 +1,18 @@
 # Image_Segmentation-Meta-SAM
-Image Segmentation using Meta SAM Pre-trained Model
+
+Image Segmentation using Meta SAM Pre-trained Model.
+
 
 ![image](https://github.com/AvantiBuche/Image_Segmentation-Meta-SAM/assets/127451991/41907e7b-af2e-43e0-a50a-877cc5813f64)
 
 
 ##
 
+<div>The repository is available on- https://github.com/facebookresearch/segment-anything</div>
+
+
 ### SAM stands for Segment Anything Model. and it was introduced by Facebook’s Meta Platforms Inc.
+
 
 ![image](https://github.com/AvantiBuche/Image_Segmentation-Meta-SAM/assets/127451991/6b8c18f2-078b-4f9c-b878-8d50a7c0b84c)
 
@@ -44,7 +50,9 @@ Image Segmentation using Meta SAM Pre-trained Model
 <div>8. Read images to plot and analysis of images.</div>
 
 
+
 ![prep](https://github.com/AvantiBuche/Image_Segmentation-Meta-SAM/assets/127451991/56de190a-bda5-4e94-ae2f-9abf922c8abc)
+
 
 ##
 
@@ -57,9 +65,11 @@ Image Segmentation using Meta SAM Pre-trained Model
 
 <div>10. Create another object with some parameters.</div>
 
+
 ##
 
 <div>11. Pass the image list for the segmentation.</div>
+
 
 
 ![seg3](https://github.com/AvantiBuche/Image_Segmentation-Meta-SAM/assets/127451991/f33cee8d-8ac2-4a72-8532-de22e255f5fc)
